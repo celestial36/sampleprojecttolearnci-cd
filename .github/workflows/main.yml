@@ -33,4 +33,4 @@ jobs:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-          tags: ghcr.io/abhinjithc/sampleproject:latest
+          tags: ghcr.io/paru97/sampleproject:latest
